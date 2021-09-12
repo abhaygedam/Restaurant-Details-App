@@ -1,0 +1,102 @@
+[
+    {
+        "id" : 11,
+        "name" : "Sai Restaurant",
+        "payment_method" : {
+            "card": true,
+            "cash": true,
+            "upi": true 
+        },
+        "cost_for_two_People" : 500,
+        "rating": 2
+    },
+     {
+        "id" : 12,
+        "name" : "Ganesh Restaurant",
+        "payment_method" : {
+            "card": false,
+            "cash": true,
+            "upi": false 
+        },
+        "cost_for_two_People" : 600,
+        "rating": 3
+    },
+     {
+        "id" : 13,
+        "name" : "Chanakya Dhabba",
+        "payment_method" : {
+            "card": true,
+            "cash": false,
+            "upi": true 
+        },
+        "cost_for_two_People" : 350,
+        "rating": 2
+    },
+     {
+        "id" : 14,
+        "name" : "Al-Balsher",
+        "payment_method" : {
+            "card": true,
+            "cash": true,
+            "upi": true 
+        },
+        "cost_for_two_People" : 400,
+        "rating": 4
+    },
+     {
+        "id" : 15,
+        "name" : "New Eagle Restaurant",
+        "payment_method" : {
+            "card": true,
+            "cash": false,
+            "upi": true 
+        },
+        "cost_for_two_People" : 500,
+        "rating": 3
+    },
+     {
+        "id" : 16,
+        "name" : "Tandoor & Kabbas",
+        "payment_method" : {
+            "card": false,
+            "cash": true,
+            "upi": false 
+        },
+        "cost_for_two_People" : 500,
+        "rating": 2
+    },
+     {
+        "id" : 17,
+        "name" : "Next Level Bar and Restaurant",
+        "payment_method" : {
+            "card": true,
+            "cash": true,
+            "upi": true 
+        },
+        "cost_for_two_People" : 600,
+        "rating": 4
+    },
+     {
+        "id" : 18,
+        "name" : "Grand Mahfil",
+        "payment_method" : {
+            "card": true,
+            "cash": false,
+            "upi": true 
+        },
+        "cost_for_two_People" : 800,
+        "rating": 5
+    },
+     {
+        "id" : 19,
+        "name" : "Rangoli Restaurant",
+        "payment_method" : {
+            "card": false,
+            "cash": true,
+            "upi": false 
+        },
+        "cost_for_two_People" : 500,
+        "rating": 4
+    }
+
+]
